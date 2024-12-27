@@ -5,7 +5,7 @@
   "main": "server.js",
   "type": "module",
   "scripts": {
-    "start": "npx nodemon"
+    "start": "nodemon server.js --watch"
   },
   "author": "MN Raza",
   "license": "ISC",
